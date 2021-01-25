@@ -1,0 +1,25 @@
+Acessos =6 
+
+Num:2201 
+Aula:aula01 
+Tipo de acesso (1- online/2-offline):1 
+
+Num:2203 
+Aula:aula01 
+Tipo de acesso (1- online/2-offline):1 
+
+Num:2206 
+Aula:aula01 
+Tipo de acesso (1- online/2-offline):2 
+
+Num:2201 
+Aula:aula03 
+Tipo de acesso (1- online/2-offline):1 
+
+Num:2203 
+Aula:aula03 
+Tipo de acesso (1- online/2-offline):2 
+
+Num:2206 
+Aula:aula03 
+Tipo de acesso (1- online/2-offline):2 

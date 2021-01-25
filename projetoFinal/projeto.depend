@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1611448496 source:c:\users\bruna leal\documents\programação\projeto\gestaouc.c
+	<stdio.h>
+	"funcoes_auxiliares.h"
+	"gestaoUc.h"
+
+1611364684 c:\users\bruna leal\documents\programação\projeto\funcoes_auxiliares.h
+
+1611448489 c:\users\bruna leal\documents\programação\projeto\gestaouc.h
+	"funcoes_auxiliares.h"
+
+1611364684 source:c:\users\bruna leal\documents\programação\projeto\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"gestaoUc.h"
+
+1611448441 source:c:\users\bruna leal\documents\programação\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<locale.h>
+	"gestaoUc.h"
+	"gestaoAulas.h"
+	"funcoes_auxiliares.h"
+
+1611441197 c:\users\bruna leal\documents\programação\projeto\gestaoaulas.h
+	"gestaoUc.h"
+	"funcoes_auxiliares.h"
+
+1611182101 source:c:\users\bruna leal\desktop\projeto\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"gestaoUc.h"
+
+1611183252 c:\users\bruna leal\desktop\projeto\funcoes_auxiliares.h
+
+1611177027 c:\users\bruna leal\desktop\projeto\gestaouc.h
+	"funcoes_auxiliares.h"
+
+1611177123 source:c:\users\bruna leal\desktop\projeto\gestaouc.c
+	<stdio.h>
+	"funcoes_auxiliares.h"
+	"gestaoUc.h"
+
+1611187600 source:c:\users\bruna leal\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<locale.h>
+	"gestaoUc.h"
+	"gestaoAulas.h"
+	"funcoes_auxiliares.h"
+
+1611187089 c:\users\bruna leal\desktop\projeto\gestaoaulas.h
+	"gestaoUc.h"
+	"funcoes_auxiliares.h"
+
+1611183252 source:c:\users\bruna leal\documents\programação\projeto\funcoes_auxiliares.h
+
+1611263843 source:c:\users\bruna leal\documents\programação\projeto\gestaoaulas.c
+	<stdio.h>
+	"funcoes_auxiliares.h"
+	"gestaoUc.h"
+	"gestaoAulas.h"
+
+1611263843 source:c:\users\bruna leal\documents\programação\projeto\gestaoaulas.h
+	"gestaoUc.h"
+	"funcoes_auxiliares.h"
+
+1611267177 source:c:\users\bruna leal\documents\programação\projeto\gestaouc.h
+	"funcoes_auxiliares.h"
+
+1611487939 source:c:\users\bruna leal\desktop\projetofinal\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"gestaoUc.h"
+
+1611364684 c:\users\bruna leal\desktop\projetofinal\funcoes_auxiliares.h
+
+1611605997 c:\users\bruna leal\desktop\projetofinal\gestaouc.h
+	"funcoes_auxiliares.h"
+
+1611610188 source:c:\users\bruna leal\desktop\projetofinal\gestaoaulas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<locale.h>
+	"funcoes_auxiliares.h"
+	"gestaoUc.h"
+	"gestaoAulas.h"
+
+1611608990 c:\users\bruna leal\desktop\projetofinal\gestaoaulas.h
+	"gestaoUc.h"
+	"funcoes_auxiliares.h"
+
+1611594546 source:c:\users\bruna leal\desktop\projetofinal\gestaouc.c
+	<stdio.h>
+	"funcoes_auxiliares.h"
+	"gestaoUc.h"
+
+1611608990 source:c:\users\bruna leal\desktop\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<locale.h>
+	"gestaoUc.h"
+	"gestaoAulas.h"
+	"funcoes_auxiliares.h"
+
