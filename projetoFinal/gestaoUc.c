@@ -81,9 +81,18 @@ void alterarUc (tipoUc vetorUc[], int quantUcs) //------------------------------
             vetorUc[pos].quantidade.pl = lerInteiro("Quantidade de aulas PL: ", 0, 100);
             break;
         case 7:
+            if (vetorUc[pos].quantidade.t != 0)
+            {
             vetorUc[pos].duracao.t = lerInteiro("Duração das aulas T(em minutos): ", 0, 360);
+            }
+            if (vetorUc[pos].quantidade.tp != 0)
+            {
             vetorUc[pos].duracao.tp = lerInteiro("Duração das aulas TP(em minutos): ", 0, 360);
+            }
+            if (vetorUc[pos].quantidade.pl != 0)
+            {
             vetorUc[pos].duracao.pl = lerInteiro("Duração das aulas PL(em minutos): ", 0, 360);
+            }
             break;
         case 0:
             break;
@@ -243,9 +252,18 @@ tipoUc leDadosUc () //----------------------------------------------------------
         uc.quantidade.t = lerInteiro("\nQuantidade de aulas T", 0 , 100);
         uc.quantidade.tp = lerInteiro("\nQuantidade de aulas TP", 0, 100);
         uc.quantidade.pl = lerInteiro("\nQuantidade de aulas PL", 0, 100);
+        if (uc.quantidade.t != 0)
+        {
         uc.duracao.t = lerInteiro("\nDuração das aulas T(em minutos)", 0, 360);
+        }
+        if (uc.quantidade.tp != 0)
+        {
         uc.duracao.tp = lerInteiro("\nDuração das aulas TP(em minutos)", 0, 360);
+        }
+        if (uc.quantidade.pl != 0)
+        {
         uc.duracao.pl = lerInteiro("\nDuração das aulas PL(em minutos)", 0, 360);
+        }
         uc.quantAulasRe = 0;
         uc.totalAulas = uc.quantidade.t + uc.quantidade.tp + uc.quantidade.pl;
         uc.gravacoes = 0;
